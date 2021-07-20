@@ -37,7 +37,7 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
-    "@azure/identity": "^1.2.1",
+    "@azure/identity": "^1.5.0",
     "@azure/keyvault-secrets": "^4.2.0",
     "@microsoft/microsoft-graph-client": "^2.2.1",
     "express": "^4.17.1",
